@@ -15,4 +15,4 @@ Run this command on command prompt to clone the repository
 
 `git clone https://github.com/love481/Malaria-Detection-and-Classification-with-CAM.git`
 
-Download the Dataset from the link[https://www.kaggle.com/datasets/iarunava/cell-images-for-detecting-malaria]
+Download the Dataset from the [link](https://www.kaggle.com/datasets/iarunava/cell-images-for-detecting-malaria).
