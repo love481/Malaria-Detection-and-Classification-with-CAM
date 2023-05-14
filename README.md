@@ -26,3 +26,9 @@ Download the Dataset from the [link](https://www.kaggle.com/datasets/iarunava/ce
 * The saved model can also be used for CAM visualization or fine-tuning tasks
 * Run the Notebook Based on Requirement and your model choices.
 
+## CAM visualization for custom CNN
+![alt text](test_img_cnn.jpg)
+
+## CAM visualization for EfficientNet-B0
+![alt text](test_img_eff.jpg)
+
